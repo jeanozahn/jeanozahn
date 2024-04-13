@@ -8,18 +8,29 @@
 ### Glad to see you here! &nbsp; ![
 
 👨‍💻 Currently serving as Squad Leader at Diletta Solutions (Campinas - SP)
+
 🎓 Pursuing a Ph.D. in Computer Science at the Institute of Computing, Federal Fluminense University - IC/UFF (CAPES 6)
+
 👨‍🏫 University Professor
+
 🔬 Researcher in Software Engineering and Computer Theory
 
+
 🎓 Master's degree in Computer Science from IC/UFF (CAPES 6)
+
 🎓 Bachelor's degree in Computer Science from UNEMAT
+
 🔍 Specialized in the validation of Normative Multi-Agent Systems (NorMAS) using formal methods
+
 🌐 Contributions to the verification and resolution of normative conflicts in Multi-Agent Systems (MAS)
+
 🧠 Utilizes Ontologies for domain representation and knowledge acquisition
 
+
 💼 Experience in systems analysis and design at ADDLabs (IC/UFF)
+
 📚 Distance tutor at CEDERJ, training professionals in Computer Science
+
 🔍 Involved in field research on Management Information Systems in public state schools
 
 📝 Former student representative at the IC/UFF Postgraduate Program (2015 and 2016)

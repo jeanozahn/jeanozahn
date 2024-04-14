@@ -14,7 +14,8 @@
 🔍 My doctoral research focuses on developing a conceptual framework for implementing Citizen-Sourcing in Municipal Ombudsman Offices. In my master's degree, I concentrated on resolving normative conflicts in Multi-Agent Systems, where I developed a mechanism for formally verifying conflicts in Java, considering domain-specific applications derived from OWL ontologies.
 
 👨‍💻 In my current role, I work with Software Development Teams, utilizing agile methodologies, active communication, and leadership to deliver high-quality software. I prioritize the well-being of developers, recognizing their pivotal role in project success. Although I now oversee personnel, products, and clients, I remain passionate about programming and cherish my roots in software development. You can always count on my expertise and dedication.
-  
+
+### Project and team management: my commitment &nbsp; ![
 
 **Talking about Personal Stuffs:**
 
@@ -22,5 +23,4 @@
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning e-Participation and Web Development;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: jeanozahn@gmail.com;
-
 </br>

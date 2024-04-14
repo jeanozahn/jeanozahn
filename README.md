@@ -17,9 +17,9 @@
 
 ### Project and team management: my commitment &nbsp;
 
-As a software engineer, I thrive on collaboration and teamwork, reveling in the dynamic interplay of minds working towards a common goal. I embrace the Scrum framework when it fits the project's needs, fostering an environment of agility and adaptability. But beyond just managing tasks and timelines, my true passion lies in nurturing the growth and development of the individuals on my team.
-
 <img align="right" alt="GIF" src="https://github.com/jeanozahn/jeanozahn/blob/main/works.gif?raw=true" width="408" height="318" />
+
+As a software engineer, I thrive on collaboration and teamwork, reveling in the dynamic interplay of minds working towards a common goal. I embrace the Scrum framework when it fits the project's needs, fostering an environment of agility and adaptability. But beyond just managing tasks and timelines, my true passion lies in nurturing the growth and development of the individuals on my team.
 
 I see myself not only as a leader but also as a mentor, guiding and empowering my fellow developers to reach greater heights in their careers. I believe that by investing in their professional growth and providing them with the support and resources they need, we can collectively achieve extraordinary results.
 
